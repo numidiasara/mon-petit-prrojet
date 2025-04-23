@@ -7,3 +7,14 @@
   width: 20%;
 
 }
+
+header{
+  display : flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+#Profile h1{
+  color : green;
+  font-size: 2rem;
+}
